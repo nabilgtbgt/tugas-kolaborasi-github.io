@@ -128,12 +128,12 @@
         }
 
         /* Pengaturan File Foto Asli Anda */
-        .card-1 { background-image: url('produk.jpeg'); }
+        .card-1 { background-image: url('WhatsApp Image 2026-11-01 at 16.27.04.jpeg'); }
         .card-2 { background-image: url('WhatsApp Image 2026-10-28 at 21.16.09.jpeg'); }
         .card-3 { background-image: url('WhatsApp Image 2026-10-28 at 21.16.20.jpeg'); }
         .card-4 { background-image: url('WhatsApp Image 2026-10-28 at 21.35.07.jpeg'); }
         .card-5 { background-image: url('WhatsApp Image 2026-10-29 at 05.14.44.jpeg'); }
-
+        .card-6 { background-image: url(lampu.jpeg); }
         /* Panel Penjelasan Global di Bawah Barisan Foto */
         .description-panel {
             background-color: #ffffff;
